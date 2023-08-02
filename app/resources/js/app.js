@@ -1,2 +1,2 @@
 import './bootstrap';
-import './Head.jsx';
+import './components/Navbar.jsx';

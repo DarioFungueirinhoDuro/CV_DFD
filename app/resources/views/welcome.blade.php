@@ -8,13 +8,12 @@
     <title>CV DFD</title>
     <link rel="preconnect" href="https://fonts.bunny.net">
     <link href="https://fonts.bunny.net/css?family=figtree:400,600&display=swap" rel="stylesheet" />
+
 </head>
 
-<body>
-    <div class="container">
-        <Header></Header>
-
-        <Body></Body>
+<body class="bg-zinc-600 ">
+    <div class="container-fluid p-1">
+        <div id="navbar" class="flex flex-col align-middle justify-start content-start flex-wrap m-2 p-2"></div>
     </div>
 </body>
 
