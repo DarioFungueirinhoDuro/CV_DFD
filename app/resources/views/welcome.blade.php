@@ -12,8 +12,8 @@
 </head>
 
 <body class="bg-zinc-600 ">
-    <div class="container-fluid p-1">
-        <div id="navbar" class="flex flex-col align-middle justify-start content-start flex-wrap m-2 p-2"></div>
+    <div class="container-fluid ">
+        <div id="navbar" class="flex flex-col align-middle justify-start content-start flex-wrap"></div>
     </div>
 </body>
 

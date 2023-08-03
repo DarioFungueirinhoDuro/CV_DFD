@@ -4,19 +4,8 @@ import { createRoot } from 'react-dom/client';
 
 function Navbar() { 
     return (
-        <div className="flex flex-row justify-start content-start p-1  ">
-            <div className='container bg-slate-300 w-32 h-14  text-center rounded m-1'>
-                Logo
-            </div>
-            <div className='container bg-slate-300 w-32 h-14  text-center rounded m-1'>
-                Logo
-            </div>
-            <div className='container bg-slate-300 w-32 h-14  text-center rounded m-1'>
-                Logo
-            </div>
-            <div className='container bg-slate-300 w-32 h-14  text-center rounded m-1'>
-                Logo
-            </div>
+        <div className="flex flex-row justify-center content-center p-1 bg-red-800">
+            <div className='trapezoid'></div>
         </div>
     );
 }
