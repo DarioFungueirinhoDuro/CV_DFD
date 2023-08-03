@@ -3,9 +3,21 @@
 @tailwind utilities;
 .trapezoid{
     padding-top: 2px;
-    border-left: 75px solid #eee592;
+    border-left: 75px solid rgb(253 230 138 / 1);
 	border-top: 30px solid transparent;
 	border-bottom: 30px solid transparent;
 	height: 200px;
 	width: 0;
+}
+.trapezoidP{
+    padding-top: 2px;
+    border-left: 75px solid rgb(187, 142, 81);
+	border-top: 30px solid transparent;
+	border-bottom: 30px solid transparent;
+	height: 200px;
+	width: 0;
+	z-index: 1;
+}
+#left-margin {
+	width: 75px;
 }

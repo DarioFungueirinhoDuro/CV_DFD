@@ -4,8 +4,10 @@ import { createRoot } from 'react-dom/client';
 
 function Navbar() { 
     return (
-        <div className="flex flex-row justify-center content-center p-1 bg-red-800">
-            <div className='trapezoid'></div>
+        <div  className="flex flex-col justify-start content-start min-h-screen " >
+            <div style={{ marginTop: "15px" }} className='trapezoidP'></div>
+            <div style={{ marginTop: "-30px"}} className='trapezoid'></div>
+            
         </div>
     );
 }
