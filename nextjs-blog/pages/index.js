@@ -11,7 +11,7 @@ export default function Home() {
       </Head>
       
       <main className="flex flex-row justify-center content-start">
-        <div className='container  min-h-screen'>
+        <div id='checkeo' className='container min-h-screen w-full'>
           <Navbar></Navbar>
           <Content></Content>
         </div>
