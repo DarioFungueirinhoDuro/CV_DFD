@@ -8,5 +8,5 @@ export default function LabelBar(input) {
         width: `${width}%` ,
         zIndex: `${input.zIndex}`
     }
-    return (<div style={mystyle} className="rounded-3xl p-5 text-end absolute "> Cosas {input.color}</div>);
+    return (<button onClick={}><div style={mystyle} className="rounded-3xl p-5 text-end absolute "> Cosas {input.color}</div></button>);
 }
