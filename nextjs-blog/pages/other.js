@@ -1,7 +1,7 @@
-
+import 'tailwindcss/tailwind.css';
 export default function Other(){
     return (
-        <div className="bg-red-300"> 
+        <div className="> 
             This is Other
         </div>
     );
