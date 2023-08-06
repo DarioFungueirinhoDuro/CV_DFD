@@ -13,7 +13,7 @@ export default function LeftMenu(){
         <div style={{borderBottom:"1px solid #39FF14",width:"96px",height:"96px",}}>
             <button className='w-full h-full text-center flex flex-row justify-center items-center' style={{fontFamily: "'Chakra Petch', sans-serif" , fontSize:"70px"}}><p>D</p></button>
         </div>
-        <div className=' flex flex-col justify-center items-start w-auto h-auto' >
+        <div className=' flex flex-col justify-center items-start w-auto h-auto'>
             <div className='w-auto h-auto'></div>
         </div>
     </div>
